@@ -1,5 +1,7 @@
 # WhatsAPI for Node.js
 
+[![Join the chat at https://gitter.im/hidespb/node-whatsapi](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hidespb/node-whatsapi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![NPM module](http://img.shields.io/npm/v/whatsapi.svg)](https://www.npmjs.org/package/whatsapi)
 [![NPM module downloads per month](http://img.shields.io/npm/dm/whatsapi.svg)](https://www.npmjs.org/package/whatsapi)
 [![Dependency Status](https://david-dm.org/hidespb/node-whatsapi.svg)](https://david-dm.org/hidespb/node-whatsapi)
